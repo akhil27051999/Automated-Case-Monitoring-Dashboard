@@ -60,12 +60,12 @@ Build a comprehensive and intelligent dashboard that:
 
 ## 📌 Outputs
 
-![Screenshot 2025-06-29 222926](https://github.com/user-attachments/assets/5bc0f052-7a86-496f-b5de-7cfd87f61add)
 
 
 ## 🏆 Recognition
 
 - Internally acknowledged for its innovation and impact on operational efficiency.  
+![Screenshot 2025-06-29 222926](https://github.com/user-attachments/assets/46d8d908-ea7a-406e-84c8-b8691b4b993d)
 
 
 ## 🧠 How GenAI Was Used
