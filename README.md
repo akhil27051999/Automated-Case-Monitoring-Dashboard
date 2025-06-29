@@ -79,6 +79,5 @@ Build a comprehensive and intelligent dashboard that:
 
 **[Akhil Thyadi]**  
 AWS Cloud TransOps Specialist | Amazon  
-Email: [thakhilk@amazon.com]  
 LinkedIn: [https://www.linkedin.com/in/akhil-thyadi/]  
 
